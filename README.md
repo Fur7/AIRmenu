@@ -51,7 +51,7 @@
     buiten_container_class: false
 
 
-CALLBACKS
+### CALLBACKS
 
 **beforeSlideUp** : null (Callback voordat het responsive menu dicht gaat) 
 VOORBEELD : 
